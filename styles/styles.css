@@ -27,7 +27,7 @@ main {
   background-color: white;
   padding: 38px;
   border-radius: 24px;
-  margin: auto;
+  margin: 0 auto;
 }
 
 section {
@@ -148,17 +148,6 @@ article span:last-of-type {
 .nutrional-values {
   color: rgb(133, 70, 50);
   font-weight: 700;
-}
-
-/* Footer */
-footer {
-  padding: 5px;
-  text-align: center;
-  background-color: white;
-}
-
-footer a {
-  color: hsl(332, 51%, 32%);
 }
 
 @media (max-width: 700px) {
