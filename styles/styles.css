@@ -13,11 +13,9 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 10px;
   background-color: hsl(30, 54%, 90%);
   font-family: Outfit;
   color: rgb(95, 87, 78);
-  padding-top: 30px;
 }
 
 main {
@@ -29,6 +27,7 @@ main {
   background-color: white;
   padding: 38px;
   border-radius: 24px;
+  margin: auto;
 }
 
 section {
